@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "www.google-analytics.com",
+      "resourceTypes": [ "main_frame" ]
+    }
+  },
+  {
+    "id": 2,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "GestionAffichageOngletATD",
+      "resourceTypes": [ "xmlhttprequest" ]
+    }
+  },
+  {
+    "id": 3,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "BTIAjaxMultiPriceAndStock",
+      "resourceTypes": [ "xmlhttprequest" ]
+    }
+  },
+  {
+    "id": 4,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "detailAllStockConnect.js",
+      "resourceTypes": [ "xmlhttprequest" ]
+    }
+  },
+  {
+    "id": 5,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "AjaxPrixEtStock",
+      "resourceTypes": [ "xmlhttprequest" ]
+    }
+  },
+  {
+    "id": 6,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "detailAllStockConnect.js",
+      "resourceTypes": [ "script" ]
+    }
+  },
+  {
+    "id": 7,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "rechercheDMS.js",
+      "resourceTypes": [ "script" ]
+    }
+  },
+  {
+    "id": 8,
+    "priority": 1,
+    "action": { "type": "block" },
+    "condition": {
+      "urlFilter": "rechercheMultiDMS.js",
+      "resourceTypes": [ "script" ]
+    }
+  }
+]

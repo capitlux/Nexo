@@ -1,0 +1,35 @@
+{
+	"name": "GParts Plugin",
+	"version": "1.0",
+	"description": "",
+	"manifest_version": 2,
+	"web_accessible_resources": [ "happy.png" ],
+	"content_security_policy": "script-src 'self' 'unsafe-eval' https://kendo.cdn.telerik.com https://cdn.jsdelivr.net https://cdnjs.cloudflare.com; object-src 'self'",
+	"permissions": [
+		"tabs",
+		"contextMenus",
+		"http://*/*",
+		"https://*/*"
+	],
+	"icons": {
+		"16": "happy.png",
+		"48": "happy.png",
+		"128": "happy.png"
+	},
+	"browser_action": {
+		"default_icon": "happy.png"
+	},
+	"content_scripts": [
+		{
+			"matches": [ "<all_urls>" ],
+			"run_at": "document_start",
+			"all_frames": true,
+			"css": [ "styles/toastr.min.css" ],
+			"js": [ "js/jquery.min.js", "js/toastr.min.js", "js/shared.js", "js/config.js", "js/catalog/carest.js", "js/catalog/vh.js", "js/catalog/hess.js", "js/catalog/exadis.js", "js/catalog/manager.js", "contentScript.js" ]
+		}
+	],
+	"background": {
+		"scripts": [ "js/shared.js", "background.js" ],
+		"persistent": false
+	}
+}

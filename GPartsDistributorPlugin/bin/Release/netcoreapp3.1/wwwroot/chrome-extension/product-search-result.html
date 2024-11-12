@@ -1,0 +1,85 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Résultats</title>
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2021.1.119/styles/kendo.common.min.css" />
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2021.1.119/styles/kendo.default.min.css" />
+    <link rel="stylesheet" href="https://kendo.cdn.telerik.com/2021.1.119/styles/kendo.default.mobile.min.css" />
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/css/bootstrap.min.css" integrity="sha384-B0vP5xmATw1+K9KRQjQERJvTumQW0nPEzvF6L/Z6nronJ3oUOFUFpCjEUQouq2+l" crossorigin="anonymous">
+    <link rel="stylesheet" href="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/magnific-popup.css" integrity="sha512-4a1cMhe/aUH16AEYAveWIJFFyebDjy5LQXr/J/08dc0btKQynlrwcmLrij0Hje8EWF6ToHCEAllhvGYaZqm+OA==" crossorigin="anonymous" />
+    <script src="https://kendo.cdn.telerik.com/2021.1.119/js/jquery.min.js"></script>
+    <script src="https://kendo.cdn.telerik.com/2021.1.119/js/kendo.all.min.js"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@4.6.0/dist/js/bootstrap.bundle.min.js" integrity="sha384-Piv4xVNRyMGpqkS2by6br4gNJ7DXjqk09RmUpJ8jgGtD7zP9yug3goQfGII0yAns" crossorigin="anonymous"></script>
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/magnific-popup.js/1.0.0/jquery.magnific-popup.min.js" integrity="sha512-+m6t3R87+6LdtYiCzRhC5+E0l4VQ9qIT1H9+t1wmHkMJvvUQNI5MKKb7b08WL4Kgp9K0IBgHDSLCRJk05cFUYg==" crossorigin="anonymous"></script>
+    <script src="js/shared.js"></script>
+    <script src="js/config.js"></script>
+    <script src="js/product-search-result.js"></script>
+</head>
+<body>
+    <div id="parent">
+
+        <div id="grid"></div>
+    </div>
+    <style>
+        html,
+        body,
+        #parent,
+        #grid {
+            margin: 0;
+            padding: 0;
+            border-width: 0;
+            height: 100%;
+        }
+
+        .image-wrapper img {
+            max-height: 100px;
+            max-width: 100px;
+        }
+
+        .image-wrapper {
+            text-align: center;
+            height: 100px;
+            width: 100px;
+            float: left;
+            margin-right: 5px;
+            border: 1px dashed rgb(160 160 160);
+            background: rgb(255 255 255);
+        }
+
+        div.product-info {
+            display: block;
+        }
+
+        span.price,
+        span.availability-state {
+            float: right;
+        }
+        span.price-base {
+            text-decoration: line-through;
+            color: #808080;
+        }
+        span.price-purchase {
+            font-weight: bold;
+        }
+        span.not-available {
+            color: orangered;
+            font-weight: bold;
+        }
+        span.available {
+            color: forestgreen;
+            font-weight: bold;
+        }
+        .description {
+            font-size: 12px;
+            line-height:14px;
+            color: #808080;
+        }
+        html {
+            overflow: hidden;
+        }
+        body {
+            font-size: 14px;
+        }
+    </style>
+</body>
+</html>

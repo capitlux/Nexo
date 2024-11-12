@@ -1,0 +1,409 @@
+{
+  "version": 63,
+  "makePrivilegedList": [
+    "LEROY ACCESSOIRE DISTRIBUTION",
+    "DELPHI",
+    "MAHLE AFTERMARKET SAS",
+    "TMD FRICTION SERVICES GMBH MINTEX TEXTAR",
+    "TRW AUTOMOTIVE FRANCE",
+    "TEXTAR",
+    "SOREA / NEOTO",
+    "SACHS",
+    "EFI AUTOMOTIVE",
+    "ELRING"
+  ],
+  "makeAssoList": [
+    {
+      "title": "FEBI BILSTEIN",
+      "items": [
+        "FEBI BILSTEIN",
+        "FEBI",
+        "FEBI FRANCE"
+      ]
+    },
+    {
+      "title": "SPIDAN",
+      "items": [
+        "GKN (SPIDAN)",
+        "SPIDAN"
+      ]
+    },
+    {
+      "title": "DAYCO",
+      "items": [
+        "DAYCO EUROPE",
+        "DAYCO"
+      ]
+    },
+    {
+      "title": "NTN SNR",
+      "items": [
+        "SNR",
+        "NTN SNR",
+        "SNR NTN ROULEMENTS",
+        "NTN SNR-ROULEMENTS"
+      ]
+    },
+    {
+      "title": "MANN FILTER",
+      "items": [
+        "MANN-FILTER",
+        "MANN FILTER",
+        "MANN HUMMEL",
+        "MANN"
+      ]
+    },
+    {
+      "title": "BOSCH",
+      "items": [
+        "ROBERT BOSCH GMBH",
+        "BOSCH",
+        "BOSCH FRANCE"
+      ]
+    },
+    {
+      "title": "MICHELIN",
+      "items": [
+        "MICHELIN",
+        "MICHELIN ENGINEPARTS"
+      ]
+    },
+    {
+      "title": "TRW AUTOMOTIVE FRANCE",
+      "items": [
+        "TRW AUTOMOTIVE FRANCE",
+        "TRW",
+        "TRW AUTOMOTIVE",
+        "TRW LUCAS"
+      ]
+    },
+    {
+      "title": "DELPHI",
+      "items": [
+        "DELPHI TECHNOLOGIES LIMITED",
+        "DELPHI",
+        "DELPHI FRANCE"
+      ]
+    },
+    {
+      "title": "NGK",
+      "items": [
+        "NGK",
+        "NGK NTK"
+      ]
+    },
+    {
+      "title": "CORTECO SAS",
+      "items": [
+        "CORTECO SAS",
+        "CORTECO MEILLOR",
+        "CORTECO"
+      ]
+    },
+    {
+      "title": "NIPPARTS",
+      "items": [
+        "NIPPARTS",
+        "NIPPARTS BV",
+        "HERTH+BUSS JAKOPARTS"
+      ]
+    },
+    {
+      "title": "BLUEPRINT GROUP FEBI",
+      "items": [
+        "BLUE PRINT",
+        "BLUEPRINT GROUP FEBI"
+      ]
+    },
+    {
+      "title": "KYB FRANCE",
+      "items": [
+        "KAYABA",
+        "KYB FRANCE",
+        "KYB EUROPE"
+      ]
+    },
+    {
+      "title": "MONROE TENNECO",
+      "items": [
+        "MONROE",
+        "MONROE TENNECO"
+      ]
+    },
+    {
+      "title": "SACHS",
+      "items": [
+        "ZF SACHS",
+        "SACHS HANDEL",
+        "SACHS",
+        "ZF SERVICES"
+      ]
+    },
+    {
+      "title": "DA SILVA",
+      "items": [
+        "DA SILVA S.A.S.",
+        "DA SILVA"
+      ]
+    },
+    {
+      "title": "FERODO FEDERAL MOGUL",
+      "items": [
+        "FERODO (FEDERAL MOGUL)",
+        "FERODO FEDERAL MOGUL"
+      ]
+    },
+    {
+      "title": "NIPPARTS/NIPPARTS BV/HERTH+BUSS JAKOPARTS",
+      "items": [
+        "NIPPARTS/NIPPARTS BV/HERTH+BUSS JAKOPARTS",
+        "NPS NIPPON PIECES SERVICES"
+      ]
+    },
+    {
+      "title": "LPR GROUP",
+      "items": [
+        "LPR GROUP",
+        "ACR GROUP"
+      ]
+    },
+    {
+      "title": "SKF",
+      "items": [
+        "SKF",
+        "SKF FRANCE AUTOMOBILE",
+        "SKF FRANCE"
+      ]
+    },
+    {
+      "title": "CLAS",
+      "items": [
+        "CLAS",
+        "CLAS EQUIPEMENTS"
+      ]
+    },
+    {
+      "title": "HERTH AND BUSS",
+      "items": [
+        "HERTH BUSS",
+        "HERTH AND BUSS"
+      ]
+    },
+    {
+      "title": "FEBI BILSTEIN/FEBI",
+      "items": [
+        "FEBI BILSTEIN/FEBI",
+        "BLUEPRINT GROUP FEBI"
+      ]
+    },
+    {
+      "title": "VALEO SERVICE FRANCE",
+      "items": [
+        "VALEO",
+        "VALEO SERVICE FRANCE"
+      ]
+    },
+    {
+      "title": "VAN WEZEL",
+      "items": [
+        "VAN WEZEL",
+        "VAN WESEL GEMMLUX VAW",
+        "GEMMLUX VAW"
+      ]
+    },
+    {
+      "title": "LEROY ACCESSOIRE DISTRIBUTION",
+      "items": [
+        "LEROY ACCESSOIRE DISTRIBUTION",
+        "TECHNI KIT",
+        "MAFIX",
+        "MAX PERFORMANCE"
+      ]
+    },
+    {
+      "title": "LEROY ACCESSOIRE DISTRIBUTION",
+      "items": [
+        "MAX",
+        "LEROY ACCESSOIRE DISTRIBUTION"
+      ]
+    },
+    {
+      "title": "LECOY",
+      "items": [
+        "LECOY",
+        "MAURICE LECOY"
+      ]
+    },
+    {
+      "title": "VERNET CALORSTAT",
+      "items": [
+        "VERNET / CALORSTAT",
+        "VERNET CALORSTAT"
+      ]
+    },
+    {
+      "title": "PURFLUX PAR SOGEFI",
+      "items": [
+        "PURFLUX",
+        "PURFLUX PAR SOGEFI"
+      ]
+    },
+    {
+      "title": "FAAB INDUSTRIE",
+      "items": [
+        "FAAB FABRICAUTO",
+        "FAAB INDUSTRIE"
+      ]
+    },
+    {
+      "title": "LUK INA FAG",
+      "items": [
+        "LUK INA FAG",
+        "INA",
+        "LUK",
+        "LUK SCHAEFFLER",
+        "LUK AFTERMARKET",
+        "LUK - AFTERMARKET SERVICE OHG"
+      ]
+    },
+    {
+      "title": "EFI AUTOMOTIVE",
+      "items": [
+        "EFI AUTOMOTIVE",
+        "BOUGICORD/ELECTRIFIL",
+        "FAE BOUGICORD GROUPE EFI AUTOMOTIVE",
+        "FAE",
+        "EFI ELECTRIFIL - FAE"
+      ]
+    },
+    {
+      "title": "NK",
+      "items": [
+        "NK",
+        "SBS"
+      ]
+    },
+    {
+      "title": "MGI COUTIER",
+      "items": [
+        "MGI COUTIER",
+        "SEIM"
+      ]
+    },
+    {
+      "title": "PROXITECH",
+      "items": [
+        "PROXITECH",
+        "PROMAUTO",
+        "PROXITECH ANCIENNEMENT PROMAUTO",
+        "STECO",
+        "BATTERIE DEPANNAGE"
+      ]
+    },
+    {
+      "title": "BERU",
+      "items": [
+        "BERU",
+        "BORGWARNER (BERU)"
+      ]
+    },
+    {
+      "title": "REMY AUTOMOTIVE",
+      "items": [
+        "DELCO REMY",
+        "REMY AUTOMOTIVE"
+      ]
+    },
+    {
+      "title": "TMD FRICTION SERVICES GMBH MINTEX TEXTAR",
+      "items": [
+        "TEXTAR",
+        "TMD FRICTION SERVICES GMBH MINTEX TEXTAR",
+        "MINTEX"
+      ]
+    },
+    {
+      "title": "TMD FRICTION SERVICES GMBH",
+      "items": [
+        "TEXTAR/TMD FRICTION SERVICES GMBH MINTEX TEXTAR/MINTEX",
+        "TMD FRICTION SERVICES GMBH"
+      ]
+    },
+    {
+      "title": "JURID FEDERAL MOGUL",
+      "items": [
+        "FEDERAL MOGUL",
+        "JURID FEDERAL MOGUL"
+      ]
+    },
+    {
+      "title": "CASCO",
+      "items": [
+        "CASCO",
+        "CASCO SPA"
+      ]
+    },
+    {
+      "title": "MAHLE FILTER",
+      "items": [
+        "KNECHT FILTER",
+        "KNECHT-MAHLE FILTRES",
+        "MAHLE FILTER",
+        "MAHLE AFTERMARKET SAS",
+        "KNECH",
+        "KNECHT",
+        "MAHLE-BEHR",
+        "MAHLE"
+      ]
+    },
+    {
+      "title": "PIERBURG",
+      "items": [
+        "PIERBURG",
+        "PIERBURG VDO WAHLER"
+      ]
+    },
+    {
+      "title": "GATES",
+      "items": [
+        "GATES",
+        "GATES FRANCE"
+      ]
+    },
+    {
+      "title": "VDO CONTINENTAL AUTOMOTIVE",
+      "items": [
+        "CONTINENTAL CTAM",
+        "VDO CONTINENTAL AUTOMOTIVE"
+      ]
+    },
+    {
+      "title": "NRF FRANCE SAS",
+      "items": [
+        "NRF",
+        "NRF FRANCE SAS"
+      ]
+    },
+    {
+      "title": "STECO",
+      "items": [
+        "STECO",
+        "STECO POWER SPORT"
+      ]
+    },
+    {
+      "title": "FEBI - BILSTEIN GROUP",
+      "items": [
+        "FEBI BILSTEIN/FEBI/FEBI FRANCE",
+        "FEBI - BILSTEIN GROUP"
+      ]
+    },
+    {
+      "title": "EXO AUTOMOTIVE SPA",
+      "items": [
+        "EXO AUTOMOTIVE SPA",
+        "DOMBASLE PIECES AUTO SERVICES"
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+{
+  "version": 2,
+  "dgSpecHash": "kpxze61jgtkxPK3oByZTQ0UKy/+yYHf9zUzbMDWNYiFgnoyKmv7eUe8PRYzESl2TI1CfhqseBTnm5JltrOMCvA==",
+  "success": true,
+  "projectFilePath": "C:\\Project\\GPartsDistributorPlugin\\GPartsDistributorPlugin\\GPartsDistributorPlugin.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\33632\\.nuget\\packages\\jsondiffpatch.net\\2.3.0\\jsondiffpatch.net.2.3.0.nupkg.sha512",
+    "C:\\Users\\33632\\.nuget\\packages\\newtonsoft.json\\12.0.2\\newtonsoft.json.12.0.2.nupkg.sha512",
+    "C:\\Users\\33632\\.nuget\\packages\\selenium.webdriver\\4.0.0-alpha07\\selenium.webdriver.4.0.0-alpha07.nupkg.sha512",
+    "C:\\Users\\33632\\.nuget\\packages\\selenium.webdriver.chromedriver\\129.0.6668.8900\\selenium.webdriver.chromedriver.129.0.6668.8900.nupkg.sha512",
+    "C:\\Users\\33632\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\3.1.21\\microsoft.netcore.app.host.win-x64.3.1.21.nupkg.sha512"
+  ],
+  "logs": []
+}
